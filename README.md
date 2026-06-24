@@ -115,11 +115,11 @@ Me caracterizo por ser adaptable, proactivo y comprometido con la seguridad y el
 
 ## 📈 Certificación Próxima
 
-En búsqueda.
+Desarrollo con IA: Programa con Agentes.
 
 | **Objetivo de la Certificación** | **Área de enfoque** |
 |:---|:---|
-| **Pronto** | En búsqueda. |
+| **Programar con Agentes, de promtps sueltos (sencillos) a programar con criterio** | Productividad y flujo de trabajo con IA. |
 <!--| **Microsoft Azure Administrator – Associate** | Resource management, security, networking, and identity services in Azure |
 | **Google Associate Cloud Engineer** | GCP workload deployment, monitoring, and management |
 | **HashiCorp Terraform Associate / KCNA** | Infrastructure as Code (IaC), automation, and Kubernetes cluster management |
