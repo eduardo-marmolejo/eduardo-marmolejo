@@ -80,6 +80,11 @@ Me caracterizo por ser adaptable, proactivo y comprometido con la seguridad y el
           <img src="./badges/CURSO DE IA. DE 0 A AGENTES (CERTIFICADO).jpg" alt="Curso de IA. De 0 a Agentes" style="width:120px; max-width:100%; height:auto;" />
         </a>
       </td>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/eduardo-marmolejo-ornelas/overlay/Certifications/124453872/treasury/?profileId=ACoAAEEqB1kBN8HkYjPLG_cpnKMrJihlt8BN7vs">
+          <img src="./badges/DESARROLLO CON IA. PROGRAMA CON AGENTES (CERTIFICADO)_page-0001.jpg" alt="Desarrollo con Ia: Programa con Agentes" style="width:120px; max-width:100%; height:auto;" />
+        </a>
+      </td>
     </tr>
     <tr>
       <!-- Text Row -->
@@ -103,6 +108,11 @@ Me caracterizo por ser adaptable, proactivo y comprometido con la seguridad y el
         🔗 <a href="https://www.linkedin.com/in/eduardo-marmolejo-ornelas/overlay/Certifications/2080611315/treasury/?profileId=ACoAAEEqB1kBN8HkYjPLG_cpnKMrJihlt8BN7vs">Certificado</a><br/>
         <!--<em>Covers Azure services, governance, and pricing models.</em>-->
       </td>
+      <td align="center" valign="top">
+        🗓️ Junio 2026 <br/>
+        🔗 <a href="https://www.linkedin.com/in/eduardo-marmolejo-ornelas/overlay/Certifications/124453872/treasury/?profileId=ACoAAEEqB1kBN8HkYjPLG_cpnKMrJihlt8BN7vs">Certificado</a><br/>
+        <!--<em>Covers Azure services, governance, and pricing models.</em>-->
+      </td>
     </tr>
   </table>
 </div>
@@ -115,11 +125,11 @@ Me caracterizo por ser adaptable, proactivo y comprometido con la seguridad y el
 
 ## 📈 Certificación Próxima
 
-Desarrollo con IA: Programa con Agentes.
+En búsqueda.
 
 | **Objetivo de la Certificación** | **Área de enfoque** |
 |:---|:---|
-| **Programar con Agentes, de promtps sueltos (sencillos) a programar con criterio** | Productividad y flujo de trabajo con IA. |
+| **Pronto** | En búsqueda. |
 <!--| **Microsoft Azure Administrator – Associate** | Resource management, security, networking, and identity services in Azure |
 | **Google Associate Cloud Engineer** | GCP workload deployment, monitoring, and management |
 | **HashiCorp Terraform Associate / KCNA** | Infrastructure as Code (IaC), automation, and Kubernetes cluster management |
