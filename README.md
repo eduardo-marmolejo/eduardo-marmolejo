@@ -82,7 +82,7 @@ Me caracterizo por ser adaptable, proactivo y comprometido con la seguridad y el
       </td>
       <td align="center">
         <a href="https://www.linkedin.com/in/eduardo-marmolejo-ornelas/overlay/Certifications/124453872/treasury/?profileId=ACoAAEEqB1kBN8HkYjPLG_cpnKMrJihlt8BN7vs">
-          <img src="./badges/DESARROLLO CON IA. PROGRAMA CON AGENTES (CERTIFICADO)_page-0001.jpg" alt="Desarrollo con Ia: Programa con Agentes" style="width:120px; max-width:100%; height:auto;" />
+          <img src="./badges/DESARROLLO CON IA. PROGRAMA CON AGENTES (CERTIFICADO).jpg" alt="Desarrollo con Ia: Programa con Agentes" style="width:120px; max-width:100%; height:auto;" />
         </a>
       </td>
     </tr>
