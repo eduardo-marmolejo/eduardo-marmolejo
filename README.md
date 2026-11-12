@@ -269,6 +269,13 @@ En búsqueda.
       <br>
       Alerta/notificación de guardado para antes de empezar
     </td>
+    <td align="center" width="300" height="200">
+      <img src="./projectimg/TimeTracking.png" alt="Time Tracking"/>
+      <br>
+      <strong>Time Tracking</strong>
+      <br>
+      Aplicación de escritorio para registro y cálculo de tiempo de proyectos.
+    </td>
   </tr>
 </table>
 
@@ -298,7 +305,7 @@ En búsqueda.
       </td>
       <td align="center" style="border: none;">
         <a href="" style="color: white;">
-          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50"/>
+          <img src="./projectimg/JavaScript.png" alt="JavaScript" width="50" height="50"/>
         </a>
         <br>JavaScript
       </td>
@@ -375,7 +382,7 @@ En búsqueda.
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/><br>MySQL
+        <img src="./projectimg/MySQL.png" alt="MySQL" width="50" height="50"/><br>MySQL
       </td>
       <td align="center" style="border: none;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Microsoft_SQL_Server_2025_icon.svg" alt="Neo4j" width="100" height="40"/><br>SQL Server
@@ -494,7 +501,7 @@ En búsqueda.
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
-      <th colspan="8" align="center" style="color: white;">FraMEWORKS & tOOLS</th>
+      <th colspan="8" align="center" style="color: white;">Frameworks & Tools</th>
     </tr>
   </thead>
   <tbody>
