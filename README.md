@@ -276,6 +276,13 @@ En búsqueda.
       <br>
       Aplicación de escritorio para registro y cálculo de tiempo de proyectos.
     </td>
+    <td align="center" width="300" height="200">
+      <img src="./projectimg/CallTracking.png" alt="Call Tracking"/>
+      <br>
+      <strong>Time Tracking</strong>
+      <br>
+      Aplicación de escritorio para registro y cálculo de tiempo de llamadas por proyectos.
+    </td>
   </tr>
 </table>
 
